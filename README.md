@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a URL Shorten website . it helps you to shorten your URL 
+
+## make .env.local  and paste it over there
+MONGODB_URI=mongodb://localhost:27017
+NEXT_PUBLIC_HOST=http://localhost:3000 
 
 ## Getting Started
 
